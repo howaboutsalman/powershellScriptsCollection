@@ -1,0 +1,10 @@
+ShareName,Path,Username,Permissions
+ADMIN$,C:\Windows,BUILTIN\Administrators,Full
+ADMIN$,C:\Windows,BUILTIN\Backup Operators,Full
+ADMIN$,C:\Windows,NT AUTHORITY\INTERACTIVE,Full
+C$,C:\,BUILTIN\Administrators,Full
+C$,C:\,BUILTIN\Backup Operators,Full
+C$,C:\,NT AUTHORITY\INTERACTIVE,Full
+D$,D:\,BUILTIN\Administrators,Full
+D$,D:\,BUILTIN\Backup Operators,Full
+D$,D:\,NT AUTHORITY\INTERACTIVE,Full
